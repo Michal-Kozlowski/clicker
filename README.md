@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+GitHub pages link:
+
+https://michal-kozlowski.github.io/clicker/clicker.html
+
 ## Build Setup
 
 ``` bash
